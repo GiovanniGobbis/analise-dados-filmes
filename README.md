@@ -1,22 +1,24 @@
-# Análise de Dados de Filmes 📊
+# Análise de Dados de Filmes
 
-## Objetivo
-Analisar dados de filmes para descobrir padrões, como:  
-- Quantos filmes existem por ano  
-- Quais os gêneros mais comuns  
-- Qual a nota média dos filmes
+## Sobre o Projeto
+Este projeto analisa dados de filmes, explorando padrões de gênero, notas, faturamento e tendências de lançamento.
 
-## Tecnologias utilizadas
-- Python
-- Pandas
-- Matplotlib
+## Tecnologias
+- Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
+- HTML/CSS
 
-## Aprendizados
-- Manipulação e limpeza de dados
-- Criação de gráficos simples
-- Extração de insights a partir de dados
+## Estrutura do Projeto
+- `data/` – Contém o dataset de filmes
+- `notebooks/` – Contém notebooks com a análise
+- `images/` – Gráficos e visualizações geradas
+- `index.html` – Página inicial do GitHub Pages
+- `style.css` – Estilo da página
 
-## Como usar
-1. Abra o notebook `analise_filmes.ipynb`  
-2. Execute as células para ver gráficos e estatísticas
+## Como Executar
+1. Clone o repositório:
+   ```
+   git clone https://github.com/GiovanniGobbis/analise-dados-filmes.git
+   ```
+2. Abra o notebook `analise_filmes.ipynb` no Jupyter Notebook.
+3. Explore os dados e visualize os gráficos.
